@@ -9,3 +9,6 @@ To run the project:
 3. source .venv/bin/activate
 4. uv pip sync uv.lock
 5. run the files 
+
+
+Be aware that the GP cell takes appr. one hour 
